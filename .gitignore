@@ -3,3 +3,4 @@ data
 .pre-commit-hooks
 .pre-commit-config.yaml
 environment.yml
+.ipynb_checkpoints
