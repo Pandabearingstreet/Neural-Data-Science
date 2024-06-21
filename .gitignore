@@ -1,5 +1,6 @@
-.venv
+.env
 data
+poisson-gpfa
 .pre-commit-hooks
 .pre-commit-config.yaml
 environment.yml
