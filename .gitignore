@@ -4,3 +4,4 @@ poisson-gpfa
 .pre-commit-hooks
 .pre-commit-config.yaml
 environment.yml
+notebooks/JVHW_Entropy_Estimators
